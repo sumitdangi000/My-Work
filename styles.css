@@ -157,7 +157,7 @@
 }
 
 .glass_building {
-    width: 101.19%;
+    width: fit-content;
     height: 812px;
     margin: -720px 0px 0px -9px;
 }
