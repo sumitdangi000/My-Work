@@ -1,0 +1,175 @@
+.aa{
+    font-family: "aileron", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    color: #002f69;
+    position: absolute;
+    margin: -130px 100px 100px 170px;
+}
+.a {
+    width: 250px;
+    height: 30px;
+    margin-top: 260px;
+    margin-left: 100px;
+    background: #002f69;
+    position: relative;
+}
+
+.b {
+    width: 250px;
+    height: 430px;
+    margin-top: 0px;
+    margin-left: 100px;
+    background: #0087ff;
+    position: relative;
+}
+
+.c1 {
+    width: 270px;
+    height: 290px;
+    margin-top: -630px;
+    margin-left: 395px;
+    background: #eaebef;
+    position: relative;
+}
+
+.c2 {
+    width: 270px;
+    height: 290px;
+    margin-top: 50px;
+    margin-left: 395px;
+    background: #002f69;
+    position: relative;
+}
+
+.c3 {
+    width: 270px;
+    height: 290px;
+    margin-top: -630px;
+    margin-left: 715px;
+    background: #eaebef;
+    position: relative;
+}
+
+.c4 {
+    width: 270px;
+    height: 290px;
+    margin-top: 50px;
+    margin-left: 715px;
+    background: #002f69;
+    position: relative;
+}
+
+.c5 {
+    width: 270px;
+    height: 290px;
+    margin-top: -630px;
+    margin-left: 1035px;
+    background: #eaebef;
+    position: relative;
+
+}
+
+.c6 {
+    width: 270px;
+    height: 290px;
+    margin-top: 50px;
+    margin-left: 1035px;
+    background: #002f69;
+    position: relative;
+}
+
+.h1 {
+    font-family: "aileron", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 52px;
+    color: #eaebef;
+    position: relative;
+    top: 75px;
+    left: 30px;
+}
+
+.h2 {
+    font-family: "aileron", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 37px;
+    color: #eaebef;
+    position: relative;
+    top: 100px;
+    left: 35px;
+}
+
+.h3 {
+    font-family: "aileron", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 37px;
+    color: #002f69;
+    position: relative;
+    top: 100px;
+    left: 35px;
+}
+
+.h4 {
+    font-family: "aileron", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 37px;
+    color: #002f69;
+    position: relative;
+    top: 120px;
+    left: 35px;
+}
+
+.arrow {
+    height: 70px;
+    margin: 220px 10px 10px 20px;
+}
+
+.add1,
+.add2,
+.add3,
+.add4,
+.add5,
+.add6,
+.add7 {
+    height: 45px;
+    position: absolute;
+}
+
+.add1 {
+    margin: -100px 0px 0px 182px;
+}
+
+.add2,
+.add3,
+.add4,
+.add5,
+.add7 {
+    margin: -65px 0px 0px 200px;
+}
+
+.add6 {
+    margin: -22px 0px 0px 200px;
+}
+
+.glass_building {
+    width: 101.19%;
+    height: 812px;
+    margin: -720px 0px 0px -9px;
+}
+
+.double_down{
+    height: 30px;
+    margin: 18px 45px 0px -55px;
+    position: absolute;
+}
+
+.circle{
+    height: 60px;
+    margin: 2px 100px 0px -70px;
+    position: absolute;
+}
